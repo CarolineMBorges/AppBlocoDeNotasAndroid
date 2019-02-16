@@ -1,0 +1,2 @@
+Este aplicativo é um bloco de notas feito com o InputStream para a leitura de dados, 
+e o OutputStream que é capaz de enviar dados a um determinado Stream. 
